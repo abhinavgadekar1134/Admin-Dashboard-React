@@ -30,7 +30,7 @@ function App() {
               <Link className='nav-links ' to={"/sfds"}> Change Credentials</Link>
               <Link className='nav-links log-out-btn dropdown-item' role="button" tabindex="0" to={"/rr"}> Log Out</Link>
             </Dropdown.Menu>
-          </Dropdown>
+          </Dropdown>sdf
           <center><img class="adminimg" width="100"
             src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" alt="" />
             <p class="adcaption">Admin name</p>
